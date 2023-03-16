@@ -1,2 +1,1 @@
-# Repo di Esercizi-Tech-Web
-# in python
+# Repo di Esercizi-Tech-Web in python
